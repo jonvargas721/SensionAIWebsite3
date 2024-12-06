@@ -17,7 +17,7 @@ function Team() {
     {
       name: 'Michael Mandl',
       role: 'COO & Co-founder',
-      bio: 'Michael is Co-Found and COO at Sension AI. He has 8+ years of experience in business development and sales for enterprise software companies. Prior to Sension AI, he served as a Commercial Account Executive at Chainalysis, the blockchain data platform. Micahel accelerated growth and profitability in web3, fintech, crypto, and other sectors with data, software, and services. Additionally, he managed the full sales cycle from lead generation to negotiating and closing. Michael is passionate about cutting-edge technology enjoys solving problems.',
+      bio: 'Michael is Co-Founder and COO at Sension AI. He has 8+ years of experience in business development and sales for enterprise software companies. Prior to Sension AI, he served as a Commercial Account Executive at Chainalysis, the blockchain data platform. Micahel accelerated growth and profitability in web3, fintech, crypto, and other sectors with data, software, and services. Additionally, he managed the full sales cycle from lead generation to negotiating and closing. Michael is passionate about cutting-edge technology enjoys solving problems.',
       image: '',
       social: {
         linkedin: 'https://www.linkedin.com/in/the-mike-mandl/',
